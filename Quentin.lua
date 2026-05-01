@@ -3,8 +3,12 @@ print("hello world")
 mmmmm, amazing really
 --]]
 print("hehe")
---variable pratice-- 
+--variable practice-- 
 x = 67 
 print(x)
---nil pratice--
+--nil practice--
 print(y)
+--stupid booleans wasting my time smh--
+--string practice--
+print("loreson said \"piss off!!\"")
+print('warning foo coming thru')
